@@ -1,6 +1,6 @@
 {
     "hyperliquid": {
-        "HL_Common_Account": { "enabled": true },
+        "HL_Common_Account": { "enabled": false },
         "HL_Account_2": { "enabled": false }
     },
     "bybit": {
