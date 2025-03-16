@@ -5,6 +5,6 @@
     },
     "bybit": {
         "BB_Account_Rahul": { "enabled": true },
-        "BB_Account_Glen": { "enabled": false }
+        "BB_Account_Glen": { "enabled": true }
     }
 }
